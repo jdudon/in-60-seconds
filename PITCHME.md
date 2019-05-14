@@ -1,8 +1,8 @@
-# Let's Get Started
+# GLPI - API REST
 
 ---
 
-## Add Some Slide Candy
+## Pour commencer
 
 ![](assets/img/presentation.png)
 
@@ -10,7 +10,7 @@
 @title[Customize Slide Layout]
 
 @snap[west span-50]
-## Customize Slide Content Layout
+## Le jeton API
 @snapend
 
 @snap[east span-50]
